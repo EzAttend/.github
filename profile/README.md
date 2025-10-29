@@ -47,7 +47,7 @@ Check out our repositories to see what we're working on. Each project is designe
 ### 🔗 Quick Links
 
 - [Main README](../README.md) - Detailed information about the organization
-- [Contributing Guide](../README.md#-contributing) - How to get started with contributions
+- [Contributing Guide](../README.md#🤝-contributing) - How to get started with contributions
 
 ---
 

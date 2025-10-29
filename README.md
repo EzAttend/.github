@@ -27,9 +27,14 @@ This organization contains multiple repositories that work together to provide a
 
 ### For Users
 
-1. Visit our main application (link to be added)
+Coming soon! We're working on bringing you an amazing attendance management experience.
+
+<!-- 
+Once available:
+1. Visit our main application
 2. Sign up for an account or log in
 3. Start tracking attendance easily
+-->
 
 ### For Developers
 
@@ -76,7 +81,6 @@ Projects in this organization are licensed under various open-source licenses. P
 
 - **Issues**: Report bugs or request features through GitHub Issues in the relevant repository
 - **Discussions**: Join our GitHub Discussions for questions and community interaction
-- **Email**: [Add contact email here]
 
 ## 🌟 Show Your Support
 
